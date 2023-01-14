@@ -19,6 +19,8 @@
 - [How to Start a Startup @Stanford](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
 - [Stanford CS183F](https://www.youtube.com/watch?v=2_IpVq6vKR0&list=PL11qn6zM2Y3aK3gGWZSaadL8HTZE2_6-U&index=2&ab_channel=StanfordOnline)
 
+> Study Ron Conway
+
 
 
 
