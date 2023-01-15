@@ -2,7 +2,7 @@
 
 ## Stanford 
 
-- [Lecture Collection | Entrepreneurship Through the captial](https://www.youtube.com/playlist?list=PLD4B36B6CAFD3E907)
+- [Lecture Collection - Entrepreneurship Through the captial](https://www.youtube.com/playlist?list=PLD4B36B6CAFD3E907)
 - [Thinking Matters](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsSJHkNLv5z9ycU6XiWLLrm)
 - [Science Storytelling and the Power of Participation](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsCEPtHUmSkFdKSqiTbwKQQ)
 - [MS&E 476: Entrepreneurship through Lens of Venture Capital
