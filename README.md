@@ -1,4 +1,4 @@
-# [Empower Entrepreneurial Spirit](entrepreneur.yahya-abulhaj.dev/)
+# [Empower Entrepreneurial Spirit](https://entrepreneur.yahya-abulhaj.dev/)
 
 ## Stanford 
 
