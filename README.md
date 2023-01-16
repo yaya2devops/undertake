@@ -25,7 +25,7 @@
 
 
 ## Harvard 
-- [Harvard i-lab | 2014 Startup Secrets: Have You Got What It Takes?](https://www.youtube.com/watch?v=tki3_CMPuYo&list=PLxpB5Hi17Tp2cAs_OoRZSHqohHJhy9AWo&ab_channel=HarvardInnovationLabs)
+- [Harvard i-lab - 2014 Startup Secrets: Have You Got What It Takes?](https://www.youtube.com/watch?v=tki3_CMPuYo&list=PLxpB5Hi17Tp2cAs_OoRZSHqohHJhy9AWo&ab_channel=HarvardInnovationLabs)
 - [2011 Startup Secrets with Michael Skok at the Harvard i-lab](https://www.youtube.com/playlist?list=PLCF4855C459EA4811)
 - [2012 Startup Secrets with Michael Skok at the Harvard i-lab](https://www.youtube.com/playlist?list=PLxpB5Hi17Tp1QSXJhyJEH1dJlWEct_81q)
 - [Social and Cultural Entrepreneurship Series](https://www.youtube.com/playlist?list=PLxpB5Hi17Tp1BhsdAQlagQA-Mbn4FStvU)
