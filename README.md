@@ -1,5 +1,7 @@
 # [Empower Entrepreneurial Spirit](https://entrepreneur.yahya-abulhaj.dev/)
 
+This is my correlation to the subject and the collection of objects that piqued my interest, so it's available to anyone looking to solve tomorrow's problems.
+
 ## Stanford 
 
 - [Lecture Collection - Entrepreneurship Through the captial](https://www.youtube.com/playlist?list=PLD4B36B6CAFD3E907)
@@ -31,6 +33,9 @@
 - [Technology-enabled Blitzscaling](https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
 
 
-### People to study
+## People to study
 - Ron Conway
 - Brian Chesky, CEO Airbnb
+
+### [Skills to attract](next-skillset.md)
+
