@@ -28,9 +28,7 @@ This is my correlation to the subject and the collection of objects that piqued 
 - [2011 Startup Secrets with Michael Skok at the Harvard i-lab](https://www.youtube.com/playlist?list=PLCF4855C459EA4811)
 - [2012 Startup Secrets with Michael Skok at the Harvard i-lab](https://www.youtube.com/playlist?list=PLxpB5Hi17Tp1QSXJhyJEH1dJlWEct_81q)
 - [Social and Cultural Entrepreneurship Series](https://www.youtube.com/playlist?list=PLxpB5Hi17Tp1BhsdAQlagQA-Mbn4FStvU)
-
-
-- [Technology-enabled Blitzscaling](https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+- [Technology-enabled Blitzscaling, Greylock series](https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
 
 
 ## People to study
