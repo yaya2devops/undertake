@@ -34,8 +34,9 @@ This is my correlation to the subject and the collection of objects that piqued 
 
 
 ## People to study
-- Ron Conway
-- Brian Chesky, CEO Airbnb
+- Russell Brunson, $40M
+- Ron Conway, $1.5B
+- Brian Chesky, CEO Airbnb, $8B
 
 ### [Skills to attract](next-skillset.md)
 
