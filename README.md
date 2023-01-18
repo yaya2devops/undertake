@@ -2,6 +2,9 @@
 
 This is my correlation to the subject and the collection of objects that piqued my interest, so it's available to anyone looking to solve tomorrow's problems.
 
+# [Skills to attract](next-skillset.md)
+
+
 ## Stanford 
 
 - [Lecture Collection - Entrepreneurship Through the captial](https://www.youtube.com/playlist?list=PLD4B36B6CAFD3E907)
@@ -36,5 +39,4 @@ This is my correlation to the subject and the collection of objects that piqued 
 - Ron Conway, $1.5B
 - Brian Chesky, CEO Airbnb, $8B
 
-### [Skills to attract](next-skillset.md)
 
