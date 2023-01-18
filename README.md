@@ -19,7 +19,7 @@ This is my correlation to the subject and the collection of objects that piqued 
 - [Feature | Entrepreneurial Thought Leader Highlights
 ](https://www.youtube.com/playlist?list=PL050880E50C8EF7AE)
 - [Best of Stanford I guess](https://www.youtube.com/playlist?list=FL-EnprmCZ3OXyAoG7vjVNCA)
-
+- [Competition is for Losers with Peter Thiel](https://www.youtube.com/watch?v=3Fx5Q8xGU8k&ab_channel=YCombinator)
 ### Y Combinator
 - [How to Start a Startup @Stanford](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
 - [Stanford CS183F](https://www.youtube.com/watch?v=2_IpVq6vKR0&list=PL11qn6zM2Y3aK3gGWZSaadL8HTZE2_6-U&index=2&ab_channel=StanfordOnline)
@@ -37,6 +37,7 @@ This is my correlation to the subject and the collection of objects that piqued 
 ## People to study
 - Russell Brunson, $40M
 - Ron Conway, $1.5B
+- Peter Thiel, CEO Paypal
 - Brian Chesky, CEO Airbnb, $8B
 
 
