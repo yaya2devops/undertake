@@ -1,4 +1,4 @@
-# [Empower Entrepreneurial Spirit](https://entrepreneur.yahya-abulhaj.dev/)
+# [Empower Entrepreneurial Spirit](https://entrepreneur.yahya-abulhaj.dev/): AIM FOR MONOPOLY
 
 This is my correlation to the subject and the collection of objects that piqued my interest, so it's available to anyone looking to solve tomorrow's problems.
 
@@ -39,5 +39,9 @@ This is my correlation to the subject and the collection of objects that piqued 
 - Ron Conway, $1.5B
 - Peter Thiel, CEO Paypal
 - Brian Chesky, CEO Airbnb, $8B
+
+
+Escape competition through MONOPOLY 
+
 
 
