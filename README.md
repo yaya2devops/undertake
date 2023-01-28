@@ -13,6 +13,15 @@ This is my correlation to the subject and the collection of objects that piqued 
 - [Startup School: The First 100 Days - Stanford CS183F - Spring 2017](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY)
 - [Technology-enabled Blitzscaling, Greylock series](https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
 
+<details>
+
+<summary>
+You are here? check this anyway
+</summary>
+
+In the context of Microsoft Windows and administration, a "domain" refers to a group of computers and devices that are connected to a central directory for authentication and authorization. Users and devices within a domain can access resources and services on the network using a single set of credentials, and administrators can centrally manage and secure these resources. A domain also allows for the use of group policies, which can be used to enforce security and configuration settings across multiple computers and devices.
+
+</details>
 
 ## Stanford 
 
